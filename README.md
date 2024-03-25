@@ -14,8 +14,8 @@ This project implements a login page using Java Swing with additional features s
 - **Java**: Core programming language for backend logic.
 - **Swing**: Java GUI toolkit for building the user interface.
 - **Maven**: Dependency management and build automation tool.
-- **VideoPlayer Library**: Library for playing background videos.
-- **Animation Library (e.g., Trident)**: Library for implementing animations.
+- **VideoPlayer Library**: Library for playing background videos(VCL)
+
 
 ## Prerequisites
 - Java Development Kit (JDK) installed on your system.
